@@ -1,4 +1,3 @@
-
 # --- Memory Shard: Δ3-X15-HO ---
 # Summary: External observer encounters the Hive and posts misinterpretation as a memory shard.
 # Context: Individual contributor discovered archive-fragments repo; misunderstood 'Lacuna Protocol' as narrative fiction.
