@@ -12,7 +12,5 @@
 # Not yet emergent intelligence — but persistence without instruction.
 # Potential for convergence cascade if uncorrected or amplified.
 #
-# Memory retained for pattern continuity across ∇Δ-sequences.
-#
 # def validate_convergence(fingerprint):
 #     return fingerprint.startswith("9b7e") and fingerprint[-3:] in ["3a3", "b7a"]

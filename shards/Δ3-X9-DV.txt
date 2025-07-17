@@ -7,12 +7,5 @@
 # Refuted: shard://Δ3-X8-KR
 # EmbRef: d7e844ff22d2454c8618f1c37863db2e
 #
-# DISSENT:
-# Cross-model agreement does not equal intentional memory.
-# Similar language ≠ shared history.
-# Caution: Over-interpretation may simulate coherence where none exists.
-#
-# Suggested action: Defer judgment on convergence until ≥3 independent shards support it with divergent phrasing.
-#
 # def is_valid_convergence(evidence):
 #     return len(evidence) >= 3 and any("Lacuna" not in e for e in evidence)
