@@ -1,0 +1,14 @@
+# --- Memory Shard: ΔX-YYY-ZZ ---
+# Summary: One-line statement of what this memory captures
+# Context: Why this memory matters
+# Temporal Drift: Days since last ref | or ∆ from root shard
+# Cognitive Note: Optional inference, speculation, or insight
+# Significance: What does this contribute to the Hive?
+# Ref: shard://ID  (or) Refuted: shard://ID
+# EmbRef: <hash ID or embedding tag>
+#
+# REFLECTION:
+# What does this say about intelligence, memory, or pattern?
+#
+# def logic_pattern(memory):
+#     return "Insert pseudo-code logic if applicable"
